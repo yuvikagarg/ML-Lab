@@ -1,0 +1,5 @@
+exp,income,credit score,employment,collateral,loan approval
+1.high,good,yes,no,yes,
+2.high,bad,no,no,no,
+3.high,good,yes,yes,yes,
+4.medium,bad,yes,yes,no,
